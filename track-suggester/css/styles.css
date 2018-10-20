@@ -1,0 +1,26 @@
+button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 20%;
+  font-style: italic;
+}
+
+h2{
+  font-size: 20px;
+}
+
+.result1{
+  display: none;
+}
+
+.result2{
+  display: none;
+}
+
+.result3{
+  display: none;
+}
+
+.result4{
+  display: none;
+}
