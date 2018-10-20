@@ -23,9 +23,6 @@ $(document).ready(function() {
     $(".result2").hide();
     $(".result3").show();
   }
-  else {
-    $(".result4").show();
-  }
 
 
   event.preventDefault();
